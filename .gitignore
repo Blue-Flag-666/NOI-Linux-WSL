@@ -295,4 +295,5 @@ DistroLauncher/messages.h
 *.lib
 *.dll
 *.exe
+*.iso
 *.tar.gz
